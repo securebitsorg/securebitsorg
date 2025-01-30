@@ -17,7 +17,7 @@ I am a resident of **Germany** and currently working at **SecureBits**. Although
 👤 **Following:** 0  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&show_icons=true&count_private=true=prs&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg&layout=compact&theme=dark)
 
