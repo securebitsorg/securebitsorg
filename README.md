@@ -26,7 +26,7 @@ I am a resident of **Germany** and currently working at **SecureBits**. Although
 At the moment I support various projects behind the scenes in my free time, including: 
 - Tor Project
 - OPNsense
-Furthermore, I run several Tor nodes to strengthen the Tor project.
+- I also run several Tor nodes to support the Tor project.
 
 ## Latest Blog Posts
 
