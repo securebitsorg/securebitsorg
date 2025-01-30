@@ -16,9 +16,9 @@ I am a resident of **Germany** and currently working at **SecureBits**. Although
 👥 **Followers:** 0  
 👤 **Following:** 0  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?securebitsorg=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg=anuraghazra&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&show_icons=true&count_private=true&hide=prs&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg&layout=compact&theme=dark)
 
 ## Recent Activity
 
