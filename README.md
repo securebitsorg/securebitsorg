@@ -12,10 +12,6 @@ I am a resident of **Germany** and currently working at **SecureBits**. Although
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,php,windows,py,kali,ansible&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
-✨ **Public Repositories:** 0  
-👥 **Followers:** 0  
-👤 **Following:** 0  
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&show_icons=true&count_public=true=prs&theme=radical)
 
@@ -42,17 +38,3 @@ Check out my blog for insights and updates: [Secure Bits Blog](https://secure-bi
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
 
-<!--
-**securebitsorg/securebitsorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
