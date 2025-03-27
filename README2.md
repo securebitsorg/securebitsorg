@@ -70,6 +70,25 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
+At the moment I support various projects behind the scenes in my free time, including: 
+- Tor Project
+- OPNsense
+- I also run several Tor nodes to support the Tor project.
+
+## Latest Blog Posts
+
+Check out my blog for insights and updates: [Secure Bits Blog](https://secure-bits.org)
+
+## Connect with Me
+
+<a href="https://www.youtube.com/@secure_bits" target="_blank" rel="noopener noreferrer"><Icon /> Youtube</a>
+<a href="https://www.linkedin.com/in/securebits/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
+
+## Certifications
+
+- [CompTIA Network+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
+- [CompTIA Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
+
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
