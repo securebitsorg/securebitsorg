@@ -19,7 +19,7 @@ I am a resident of **Germany** and currently working at **SecureBits**. Although
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&show_icons=true&count_public=true=prs&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg&layout=compact&theme=dark)
+![GitHub stats](https://streak-stats.demolab.com?user=securebitsorg&theme=radical&hide_border=true)
 
 ## Recent Activity
 
@@ -41,7 +41,7 @@ Check out my blog for insights and updates: [Secure Bits Blog](https://secure-bi
 
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
-- [CompTIA CySA+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
+
 <!--
 **securebitsorg/securebitsorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
