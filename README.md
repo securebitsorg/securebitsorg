@@ -9,7 +9,7 @@ I am a resident of **Germany** and currently working at **SecureBits**. Although
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,php,windows,py,kali,html,css,js,ansible&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,php,windows,py,kali,ansible&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 ✨ **Public Repositories:** 0  
