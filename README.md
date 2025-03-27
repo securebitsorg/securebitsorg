@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 
 I am **Marcel Dellmann** and I am the founder and mastermind behind **SecureBits**. 
 I am passionate about IT security, privacy , and IT in general.
@@ -7,20 +7,6 @@ I am passionate about IT security, privacy , and IT in general.
 
 I am a resident of **Germany** and currently working at **SecureBits**. Although I don't have public repositories yet, I am actively involved in various projects. My goal is to contribute to open source software and to give something back to the open source community with my skills.
 
-## Skills & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,php,windows,py,kali,ansible&perline=8)](https://skillicons.dev)
-
-## GitHub Stats
-✨ **Public Repositories:** 0  
-👥 **Followers:** 0  
-👤 **Following:** 0  
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&show_icons=true&count_public=true=prs&theme=radical)
-
-![GitHub stats](https://streak-stats.demolab.com?user=securebitsorg&theme=radical&hide_border=true)
-
 ## Recent Activity
 
 At the moment I support various projects behind the scenes in my free time, including: 
@@ -28,9 +14,29 @@ At the moment I support various projects behind the scenes in my free time, incl
 - OPNsense
 - I also run several Tor nodes to support the Tor project.
 
-## Latest Blog Posts
+# HOW-TO's and TIPS
 
-Check out my blog for insights and updates: [Secure Bits Blog](https://secure-bits.org)
+If you are interested in tutorials on Linux, privacy, IT security and many other topics, then feel free to visit my blog.
+
+**Check out my blog for insights and updates:** [Secure Bits Blog](https://secure-bits.org)
+
+Furthermore, you can also find some templates here on GitHub for your home lab projects or for maintaining your IT infrastructure.
+- Community templates | Templates for, for example, Ansible, Terraform, OpenTofu, Bash, Python, etc....
+  
+
+
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,php,windows,py,kali,ansible,terraform&perline=8)](https://skillicons.dev)
+
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&show_icons=true&count_public=true=prs&theme=radical)
+
+![GitHub stats](https://streak-stats.demolab.com?user=securebitsorg&theme=radical&hide_border=true)
+
 
 ## Connect with Me
 
@@ -42,17 +48,3 @@ Check out my blog for insights and updates: [Secure Bits Blog](https://secure-bi
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
 
-<!--
-**securebitsorg/securebitsorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
