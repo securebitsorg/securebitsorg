@@ -35,7 +35,7 @@ Furthermore, you can also find some templates here on GitHub for your home lab p
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&show_icons=true&count_public=true=prs&theme=radical)
 
-![GitHub stats](https://streak-stats.demolab.com?user=securebitsorg&theme=radical&hide_border=true)
+
 
 
 ## Connect with Me
