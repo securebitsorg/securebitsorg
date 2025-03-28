@@ -28,15 +28,17 @@ Furthermore, you can also find some templates here on GitHub for your home lab p
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,php,windows,py,kali,redhat,debian,ubuntu,ansible,terraform&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,php,windows,py,kali,redhat,debian,ubuntu,ansible,terraform&perline=11)](https://skillicons.dev)
 
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&show_icons=true&count_public=true=prs&theme=radical)
-
-
-
+## Statistic
+<a href="https://github.com/securebitsorg/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=securebitsorg" />
+</a>
+<a href="https://github.com/securebitsorg/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=securebitsorg&layout=compact&langs_count=8" />
+</a>
 
 ## Connect with Me
 
