@@ -53,10 +53,10 @@ Furthermore, you can also find some templates here on GitHub for your home lab p
 
 ## Statistic
 <a href="https://github.com/securebitsorg/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=securebitsorg" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=securebitsorg" />
 </a>
 <a href="https://github.com/securebitsorg/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=securebitsorg&layout=compact&langs_count=8" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=securebitsorg&layout=compact&langs_count=8" />
 </a>
 
 ## Connect with Me
