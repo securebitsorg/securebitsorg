@@ -42,6 +42,11 @@ Furthermore, you can also find some templates here on GitHub for your home lab p
   
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox VE mit fail2ban absichern](https://secure-bits.org/proxmox-ve-mit-fail2ban-absichern/)
+- [PiVPN + Pihole | Pihole unterwegs nutzen](https://secure-bits.org/pivpn-pihole/)
+- [Video | Pihole mit aktueller PHP-8.3 installieren](https://secure-bits.org/pihole-php-8_3/)
+- [Aktuelle Probleme mit Fotos im Community-Forum](https://secure-bits.org/aktuelle-probleme-mit-fotos-im-community-forum/)
+- [Pihole PHP 8.3 | Pihole immer mit der aktuellsten PHP-Version](https://secure-bits.org/pihole-2024-mit-php-8-3-installieren/)
 <!-- BLOG-POST-LIST:END -->
 
 
