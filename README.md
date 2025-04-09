@@ -71,7 +71,7 @@ Furthermore, you can also find some templates here on GitHub for your home lab p
 
 ## Certifications
 
-- IT-Sicherheits-Beauftragter (TÜV)
+- [IT-Sicherheits-Beauftragter (TÜV)](https://perscert-tuv.certif-id.com/expert/public/share/sEPJNAMLNvctStPM_Otu) - TÜV-Rheinland, 2025
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
 
