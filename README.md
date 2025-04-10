@@ -32,13 +32,16 @@ At the moment I support various projects behind the scenes in my free time, incl
 - I also run several Tor nodes to support the Tor project.
 
 ## HOW-TO's and TIPS
+> [!TIP] 
+> ## If you are interested in tutorials on Linux, privacy, IT security and many other topics, then feel free to visit my blog.
+> 
+**[Secure Bits Blog](https://secure-bits.org)** | Check out my blog for insights and updates.
 
-If you are interested in tutorials on Linux, privacy, IT security and many other topics, then feel free to visit my blog.
+### Furthermore, you can also find some templates here on GitHub for your home lab projects or for maintaining your IT infrastructure:</br>
 
-- **Check out my blog for insights and updates:** [Secure Bits Blog](https://secure-bits.org)
+**[Community templates](https://github.com/securebitsorg/community-templates)** | Templates for, for example, Ansible, Terraform, OpenTofu, Bash, Python, etc....</br>
 
-Furthermore, you can also find some templates here on GitHub for your home lab projects or for maintaining your IT infrastructure.
-- **Community templates** | Templates for, for example, Ansible, Terraform, OpenTofu, Bash, Python, etc....
+**[Ansible auto-config templates for desktop and server](https://github.com/securebitsorg/ansible-desktop-server-auto-install-config)** | If you want to use Ansible to automatically set up all your workstations, laptops and servers, then this Ansible script repository will help you automate your installation.
   
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
