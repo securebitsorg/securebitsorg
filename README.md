@@ -1,4 +1,4 @@
-![logo](/assets/logo.png)
+![logo](/assets/images/logo_klein.png)
 
 # Hi there! 👋
 
