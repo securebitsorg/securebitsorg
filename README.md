@@ -65,17 +65,15 @@ ___
 
 
 ## Statistic
+
+<a href="https://github.com/securebitsorg">
+  <img height=auto weight=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg" />
 <a href="https://github.com/securebitsorg/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=securebitsorg" />
-</a>
-<a href="https://github.com/securebitsorg/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=securebitsorg&layout=compact&langs_count=8" />
+  <img height=auto weight=auto align="center" src="https://github-readme-stats.vercel.app/api?username=securebitsorg&" />
 </a>
 
-## Connect with Me
 
-<a href="https://www.youtube.com/@secure_bits" target="_blank" rel="noopener noreferrer"><Icon /> Youtube</a>
-<a href="https://www.linkedin.com/in/securebits/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
+
 
 ## Certifications
 
@@ -83,3 +81,6 @@ ___
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
 
+
+
+[def]: https://github-readme-stats.vercel.app/api?username=securebitsorg&count_private=true
