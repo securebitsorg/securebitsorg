@@ -1,3 +1,5 @@
+![logo](/assets/logo.png)
+
 # Hi there! 👋
 
 I am **Marcel Dellmann** and I am the founder and mastermind behind **SecureBits**. 
@@ -35,9 +37,12 @@ At the moment I support various projects behind the scenes in my free time, incl
 > [!TIP] 
 > ## If you are interested in tutorials on Linux, privacy, IT security and many other topics, then feel free to visit my blog.
 > 
-**[Secure Bits Blog](https://secure-bits.org)** | Check out my blog for insights and updates.
-
-### Furthermore, you can also find some templates here on GitHub for your home lab projects or for maintaining your IT infrastructure:</br>
+> **[Secure Bits Blog](https://secure-bits.org)** | Check out my blog for insights and updates.
+___
+> [!TIP] 
+> ### Furthermore, you can also find some templates here on GitHub for your home lab projects or for maintaining your IT infrastructure:</br>
+___
+</br>
 
 **[Community templates](https://github.com/securebitsorg/community-templates)** | Templates for, for example, Ansible, Terraform, OpenTofu, Bash, Python, etc....</br>
 
