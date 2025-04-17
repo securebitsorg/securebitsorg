@@ -67,9 +67,9 @@ ___
 ## Statistic
 
 <a href="https://github.com/securebitsorg">
-  <img height=300 weight=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg" />
+  <img height=auto weight=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg" />
 <a href="https://github.com/securebitsorg/github-readme-stats">
-  <img height=300 weight=auto align="center" src="https://github-readme-stats.vercel.app/api?username=securebitsorg&" />
+  <img height=auto weight=auto align="center" src="https://github-readme-stats.vercel.app/api?username=securebitsorg&" />
 </a>
 
 
