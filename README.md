@@ -47,6 +47,8 @@ ___
 **[Community templates](https://github.com/securebitsorg/community-templates)** | Templates for, for example, Ansible, Terraform, OpenTofu, Bash, Python, etc....</br>
 
 **[Ansible auto-config templates for desktop and server](https://github.com/securebitsorg/ansible-desktop-server-auto-install-config)** | If you want to use Ansible to automatically set up all your workstations, laptops and servers, then this Ansible script repository will help you automate your installation.
+
+**[Python-Script with GUI for Log-files analyse](https://github.com/securebitsorg/log-analyse)** | With this log analysis tool, you can easily analyze, filter, and export log files via a graphical user interface. 
   
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
