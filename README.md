@@ -76,7 +76,6 @@ ___
 
 
 
-
 ## Certifications
 
 - [IT-Sicherheits-Beauftragter (TÜV)](https://perscert-tuv.certif-id.com/expert/public/share/sEPJNAMLNvctStPM_Otu) - TÜV-Rheinland, 2025
