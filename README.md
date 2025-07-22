@@ -57,7 +57,7 @@ ___
 - [Video | Pihole mit aktueller PHP-8.3 installieren](https://secure-bits.org/pihole-php-8_3/)
 - [Aktuelle Probleme mit Fotos im Community-Forum](https://secure-bits.org/aktuelle-probleme-mit-fotos-im-community-forum/)
 - [Pihole PHP 8.3 | Pihole immer mit der aktuellsten PHP-Version](https://secure-bits.org/pihole-2024-mit-php-8-3-installieren/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->localhost:1313
 
 
 ## Skills & Technologies
@@ -68,12 +68,11 @@ ___
 
 ## Statistic
 
-<a href="https://github.com/securebitsorg">
-  <img height=auto weight=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg" />
-<a href="https://github.com/securebitsorg">
-  <img height=auto weight=auto align="center" src="https://github-readme-stats.vercel.app/api?username=securebitsorg&" />
-</a>
+![securebitsorg's Stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
+![securebitsorg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg&theme=highcontrast&show_icons=true&hide_border=false&)
+
+![securebitsorg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=securebitsorg&theme=highcontrast&hide_border=false)
 
 
 
