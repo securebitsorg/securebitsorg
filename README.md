@@ -52,12 +52,10 @@ ___
   
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Proxmox VE mit fail2ban absichern](https://secure-bits.org/proxmox-ve-mit-fail2ban-absichern/)
-- [PiVPN + Pihole | Pihole unterwegs nutzen](https://secure-bits.org/pivpn-pihole/)
-- [Video | Pihole mit aktueller PHP-8.3 installieren](https://secure-bits.org/pihole-php-8_3/)
-- [Aktuelle Probleme mit Fotos im Community-Forum](https://secure-bits.org/aktuelle-probleme-mit-fotos-im-community-forum/)
-- [Pihole PHP 8.3 | Pihole immer mit der aktuellsten PHP-Version](https://secure-bits.org/pihole-2024-mit-php-8-3-installieren/)
-<!-- BLOG-POST-LIST:END -->localhost:1313
+- [Proxmox VE mit fail2ban absichern](https://secure-bits.org/posts/linux/proxmox-fail2ban/)
+- [PiVPN + Pihole | Pihole unterwegs nutzen](https://secure-bits.org/posts/privacy/pihole/pihole-vpn/)
+- [Video | Pihole mit aktueller PHP-8.3 installieren](https://secure-bits.org/posts/privacy/pihole/pihole-mit-der-aktuellsten-php-version/)
+<!-- BLOG-POST-LIST:END -->
 
 
 ## Skills & Technologies
@@ -70,7 +68,7 @@ ___
 
 ![securebitsorg's Stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
-![securebitsorg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg&theme=highcontrast&show_icons=true&hide_border=false&)
+![securebitsorg's Top Languages](https://cgithub-readme-stats.vercel.app/api/top-langs/?username=securebitsorg&theme=highcontrast&show_icons=true&hide_border=false&)
 
 ![securebitsorg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=securebitsorg&theme=highcontrast&hide_border=false)
 
