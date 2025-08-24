@@ -68,12 +68,12 @@ ___
 
 
 ## Statistic
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&theme=merko&show_icons=true&hide_border=false&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=securebitsorg&theme=merko&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg&theme=merko&show_icons=true&hide_border=false)
 
-![securebitsorg's Stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
-![securebitsorg's Top Languages](https://cgithub-readme-stats.vercel.app/api/top-langs/?username=securebitsorg&theme=highcontrast&show_icons=true&hide_border=false&)
 
-![securebitsorg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=securebitsorg&theme=highcontrast&hide_border=false)
 
 
 
@@ -87,4 +87,5 @@ ___
 
 
 [def]: https://github-readme-stats.vercel.app/api?username=securebitsorg&count_private=true
+
 
