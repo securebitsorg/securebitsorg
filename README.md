@@ -57,6 +57,9 @@ ___
 - [Video | Pihole mit aktueller PHP-8.3 installieren](https://secure-bits.org/posts/privacy/pihole/pihole-mit-der-aktuellsten-php-version/)
 <!-- BLOG-POST-LIST:END -->
 
+## Support me
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N75H01P)
 
 ## Skills & Technologies
 
@@ -76,10 +79,12 @@ ___
 
 ## Certifications
 
-- [IT-Sicherheits-Beauftragter (TÜV)](https://perscert-tuv.certif-id.com/expert/public/share/sEPJNAMLNvctStPM_Otu) - TÜV-Rheinland, 2025
-- [CompTIA Network+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
-- [CompTIA Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ML5Q39XKG1E1QS3X) - CompTIA, 2025
+- IT-Sicherheits-Beauftragter (TÜV) - TÜV-Rheinland, 2025
+- CompTIA Network+ - CompTIA, 2025
+- CompTIA Security+ - CompTIA, 2025
+- CompTIA Cybersecurity Analyst CySA+ - CompTIA, 2025
 
 
 
 [def]: https://github-readme-stats.vercel.app/api?username=securebitsorg&count_private=true
+
