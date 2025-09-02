@@ -29,6 +29,7 @@ I am a resident of **Germany** and currently working at **SecureBits**. Although
 ## Recent Activity
 
 At the moment I support various projects behind the scenes in my free time, including: 
+- Development of the App [**BASH-SCRIPT-MAKER**](https://github.com/securebitsorg/Bash-Script-Maker)
 - Tor Project
 - OPNsense
 - I also run several Tor nodes to support the Tor project.
@@ -44,22 +45,19 @@ ___
 ___
 </br>
 
+**[Bash-Script-Maker](https://github.com/securebitsorg/Bash-Script-Maker)** | Tool for make Bash-Script with Drag and Drop
+
 **[Community templates](https://github.com/securebitsorg/community-templates)** | Templates for, for example, Ansible, Terraform, OpenTofu, Bash, Python, etc....</br>
 
 **[Ansible auto-config templates for desktop and server](https://github.com/securebitsorg/ansible-desktop-server-auto-install-config)** | If you want to use Ansible to automatically set up all your workstations, laptops and servers, then this Ansible script repository will help you automate your installation.
 
 **[Python-Script with GUI for Log-files analyse](https://github.com/securebitsorg/log-analyse)** | With this log analysis tool, you can easily analyze, filter, and export log files via a graphical user interface. 
   
-## Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Proxmox VE mit fail2ban absichern](https://secure-bits.org/posts/linux/proxmox-fail2ban/)
-- [PiVPN + Pihole | Pihole unterwegs nutzen](https://secure-bits.org/posts/privacy/pihole/pihole-vpn/)
-- [Video | Pihole mit aktueller PHP-8.3 installieren](https://secure-bits.org/posts/privacy/pihole/pihole-mit-der-aktuellsten-php-version/)
-<!-- BLOG-POST-LIST:END -->
 
 ## Support me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N75H01P)
+
 
 ## Skills & Technologies
 
@@ -69,7 +67,9 @@ ___
 
 ## Statistic
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&theme=merko&show_icons=true&hide_border=false&count_private=true)
+
 ![GitHub Stats](https://streak-stats.demolab.com?user=securebitsorg&theme=merko&hide_border=false)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg&theme=merko&show_icons=true&hide_border=false)
 
 
@@ -87,5 +87,6 @@ ___
 
 
 [def]: https://github-readme-stats.vercel.app/api?username=securebitsorg&count_private=true
+
 
 
