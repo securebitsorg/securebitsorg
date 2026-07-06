@@ -83,6 +83,7 @@ ___
 - CompTIA Network+ - CompTIA, 2025
 - CompTIA Security+ - CompTIA, 2025
 - CompTIA Cybersecurity Analyst CySA+ - CompTIA, 2025
+- IT-Security-Manager (TÜV) - TUV Rheinland 2025
 
 
 
