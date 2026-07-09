@@ -9,18 +9,16 @@ I am passionate about IT security, privacy , and IT in general.
 
 I am a resident of **Germany** and currently working at **SecureBits**. Although I don't have public repositories yet, I am actively involved in various projects. My goal is to contribute to open source software and to give something back to the open source community with my skills.
 
-- 🌱 I’m currently learning **IT-Security-Manager**
+- 🌱 I’m currently working as **IT-Security-Manager**
 
 - 📝 I regularly write articles on [https://secure-bits.org](https://secure-bits.org)
 
-- 📫 How to reach me **callme@secure-bits.org**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/securebits/](https://www.linkedin.com/in/securebits/)
+- 📫 How to reach me **support@secure-bits.org**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/securebits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="securebits" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/@secure_bits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@secure_bits" height="30" width="40" /></a>
 <a href="/https://secure-bits.org/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://secure-bits.org/rss" height="30" width="40" /></a>
 </p>
