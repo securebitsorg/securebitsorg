@@ -27,7 +27,7 @@ I am a resident of **Germany** and currently working at **SecureBits**. Although
 ## Recent Activity
 
 At the moment I support various projects behind the scenes in my free time, including: 
-- Development of the App [**BASH-SCRIPT-MAKER**](https://github.com/securebitsorg/Bash-Script-Maker)
+- Development of the App [**SentryMail**](https://github.com/securebits-cyber/SentryMail), a realistic phishing simulation and awareness training server.
 - Tor Project
 - OPNsense
 - I also run several Tor nodes to support the Tor project.
@@ -64,13 +64,8 @@ ___
 
 
 ## Statistic
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=securebitsorg&theme=merko&show_icons=true&hide_border=false&count_private=true)
 
-![GitHub Stats](https://streak-stats.demolab.com?user=securebitsorg&theme=merko&hide_border=false)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=securebitsorg&theme=merko&show_icons=true&hide_border=false)
-
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=securebitsorg&theme=ayu&hide=stars)
 
 
 
