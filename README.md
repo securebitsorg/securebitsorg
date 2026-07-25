@@ -1,5 +1,3 @@
-![logo](/assets/images/logo_klein.png)
-
 # Hi there! 👋
 
 I am **Marcel Dellmann** and I am the founder and mastermind behind **SecureBits**. 
